@@ -26,11 +26,11 @@ const config = {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "#8A2BE2", // Vibrant purple from Matrix logo
+          DEFAULT: "#5D3A96", // Vibrant purple from Matrix logo
           foreground: "hsl(var(--primary-foreground))",
         },
         secondary: {
-          DEFAULT: "#A64DFF", // Lighter purple
+          DEFAULT: "#FDB913", // Lighter purple
           foreground: "hsl(var(--secondary-foreground))",
         },
         destructive: {
@@ -42,7 +42,7 @@ const config = {
           foreground: "hsl(var(--muted-foreground))",
         },
         accent: {
-          DEFAULT: "#D8BFD8", // Light lavender accent
+          DEFAULT: "#7B5AC5", // Light lavender accent
           foreground: "hsl(var(--accent-foreground))",
         },
         popover: {

@@ -6,9 +6,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Matrix Store - Social Media",
-  description: "Connect with Matrix Store on social media platforms",
-    generator: 'v0.dev'
+  title: "Amazon-Almadina Store - Social Media",
+  description: "Connect with Amazon-Almadina Store on social media platforms",
+    generator: 'alialshara'
 }
 
 export default function RootLayout({
